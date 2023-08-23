@@ -5,6 +5,8 @@ Este é um projeto de estudo da [linguagem GO](https://go.dev/doc), contendo os 
 #### Aprendizados:
 
 - Criação de APIs
+  - Frameworks
+  - Routers
   - Go Chi
   - Middleware
 - Concorrência
